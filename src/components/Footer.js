@@ -11,7 +11,7 @@ const Footer = () => (
       px="40px"
       pt="24px"
     >
-      <img src={Logo} alt="logo" style={{ borderRadius: "100px" }} />
+      <img src={Logo} alt="logo" style={{ borderRadius: "100px", width: "90vw" }} />
     </Stack>
     <Typography
       variant="h5"
